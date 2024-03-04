@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Outfit;
+    }
+body{
+    background: #1a1616;
+    color: #fff;
+} 
+.Cart-container{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    flex-wrap: wrap;
+    gap: 25px;
+     margin: auto;
+    width: 1000px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px; 
+    padding-left: 50px;
+    
+}
