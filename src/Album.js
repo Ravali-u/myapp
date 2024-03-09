@@ -1,7 +1,8 @@
 import React from 'react'
 
-export const Album = () => {
+export default function Album() {
   return (
     <div>Album</div>
   )
 }
+
