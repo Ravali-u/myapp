@@ -15,7 +15,7 @@ function App14() {
   };
 
   const handleLogin = () => {
-    if (name === 'john' && password === '1234') {
+    if (name === 'john' && password === 'pass1234') {
       setLoginStatus('Success');
     } else {
       setLoginStatus('Fail');
