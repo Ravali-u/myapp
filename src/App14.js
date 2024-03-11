@@ -39,4 +39,4 @@ function App14() {
   );
 }
 
-export default App14;
+export default App14
