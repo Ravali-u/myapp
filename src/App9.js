@@ -1,7 +1,5 @@
 import React from 'react'
 import { useState, useEffect } from "react";
-
-
 export default function App9() {
     const [run, setRuns] = useState(0);
     const [wickets, setWickets] = useState(0);

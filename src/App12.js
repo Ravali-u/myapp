@@ -5,7 +5,7 @@ const complexFunction = () => {
     console.log("Initializing count");
     return 5;
   };
-  export default function App6() {
+  export default function App12() {
     const [count, setCount] = useState(() => {
       return complexFunction() //runs once
     });
